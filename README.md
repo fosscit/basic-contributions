@@ -58,3 +58,5 @@ Complex contributions may also involve: Cloning, and Branching. For the sake of 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ### CONTRIBUTORS
+
+* 🌟 [the-bose](https://github.com/the-bose) 💻🦆🎧
