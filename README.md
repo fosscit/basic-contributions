@@ -100,6 +100,6 @@ Check issues marked with ["good first issue"](https://github.com/issues?utf8=%E2
 
 ### CONTRIBUTORS
 
-* 🌟 [the-bose](https://github.com/the-bose) 💻🦆🎧
-* 🌟 [Rohith S](https://github.com/RohithS001) 🖥💯💰
+* [the-bose](https://github.com/the-bose) 💻🦆🎧
+* [Rohith S](https://github.com/RohithS001) 🖥💯💰
 
