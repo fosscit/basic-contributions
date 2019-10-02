@@ -87,6 +87,10 @@ Complex contributions may also involve: Cloning, and Branching. For the sake of 
 * So, wait it out, and congratulations on making your first PR! 
 
 
+
+### What next?
+Check issues marked with ["good first issue"](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+label%3A%22hacktoberfest%22) to find projects need your help!
+
 #### Happy Contributing! :rocket: :fireworks:
 
 
