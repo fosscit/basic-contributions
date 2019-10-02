@@ -7,6 +7,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 ### What is GitHub?
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. If it gets a bit overwhelming at first, we recommend you to check [this](https://guides.github.com/activities/hello-world/).
 
+#### IMPORTANT: MAKE SURE THAT YOU HAVE REGISTERED YOUR GITHUB PROFILE WITH HACKTOBERFEST ([HERE](https://hacktoberfest.digitalocean.com/)) BEFORE PROCEEDING.
 
 ## How to contribute?
 Any type of contribution involves these basic steps:
