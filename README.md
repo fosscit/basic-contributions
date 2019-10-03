@@ -103,5 +103,5 @@ Check issues marked with ["good first issue"](https://github.com/issues?utf8=%E2
 * [the-bose](https://github.com/the-bose) 💻🦆🎧
 * [RohithS001](https://github.com/RohithS001) 🖥💯💰
 * [Poobalan1210](https://www.github.com/Poobalan1210)🎶🎉🤳  
-* [Prakash]((https://github.com/Prakash3008)
+* [Prakash](https://github.com/Prakash3008)
 
