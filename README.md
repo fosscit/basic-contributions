@@ -106,6 +106,3 @@ Check issues marked with ["good first issue"](https://github.com/issues?utf8=%E2
 * [Hari-Prasath-1701](https://github.com/Hari-Prasath-1701)
 * [abhisheknaiidu](https://github.com/abhisheknaiidu) 💻👽
 * [HariPrasad5724](https://www.github.com/HariPrasad5724) ❤👏🎂
-
-
-
