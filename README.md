@@ -103,6 +103,7 @@ Check issues marked with ["good first issue"](https://github.com/issues?utf8=%E2
 * [the-bose](https://github.com/the-bose) 💻🦆🎧
 * [RohithS001](https://github.com/RohithS001) 🖥💯💰
 * [Poobalan1210](https://www.github.com/Poobalan1210)🎶🎉🤳  
+* [Prakash3008](https://www.github.com/Prakash3008)🎶💯🎮
 * [Hari-Prasath-1701](https://github.com/Hari-Prasath-1701)
 * [abhisheknaiidu](https://github.com/abhisheknaiidu) 💻👽
 
